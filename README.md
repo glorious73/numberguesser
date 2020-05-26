@@ -11,3 +11,5 @@ A game where the user guesses a number between 1 and 10. The game is played on t
 The game is developed with HTML, CSS, and Javascript. Skeleton CSS was used for the styles.
 ## Progress
 This game is done.
+## Demo
+Demo can be found [here](https://gloriousnumberguesser.netlify.app/)
